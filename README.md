@@ -1,4 +1,4 @@
-# HackBout E-Certificates Generator 
+# HackBout E-Certificate Generator 
 
 An intelligible Python script just to reduce the manual labour of creating customised e-certificates for all the Hacker's who bout on innovative grounds for 36 hours at Hack Club NMIT First Hackathon [HackBout](https://www.hackbout.tech). 
 All the HackBout finalists can download their  E-Certificates from here:
