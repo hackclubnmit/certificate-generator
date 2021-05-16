@@ -26,7 +26,7 @@ for i in original_list:
 print(clean_list)
 
 
-def hacker_name(name):
+def hacker_name(name):MR. Abhishek 
     # create Image object with the input image
     image = Image.open('certificate_raw.jpg')
     # initialise the drawing context with the image object as background
